@@ -333,11 +333,4 @@ npm test
 # Frontend tests
 cd frontend
 npm test
-```
-
-## 👥 Authors
-
-- **Beyza Evcen** - [beyzaevcen](https://github.com/beyzaevcen)
-
-
 **Happy Flying! ✈️**
