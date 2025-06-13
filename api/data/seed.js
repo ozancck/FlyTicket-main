@@ -4,6 +4,7 @@ const cities = require('./cities');
 const City = require('../models/City');
 const Admin = require('../models/Admin');
 
+
 dotenv.config();
 
 mongoose.connect(process.env.MONGODB_URI)
