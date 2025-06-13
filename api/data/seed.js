@@ -22,6 +22,7 @@ const importData = async () => {
     // Import cities
     await City.insertMany(cities);
     
+    
     // Create default admin
     await Admin.deleteMany();
     await Admin.create({
